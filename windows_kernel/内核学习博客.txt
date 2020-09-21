@@ -1,0 +1,4 @@
+https://blog.csdn.net/qq_38474570/column/info/36522
+
+mov cr4,0x6f0
+/bin/sh\n/bin/cp /flag /home/pwn/flag\n/bin/chmod 777 /home/pwn/flag
